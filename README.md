@@ -33,7 +33,7 @@ $ yarn start:prod or npm run start:prod
 $ yarn test or npm run test
 
 # test coverage
-$ yarn test: cov or npm run test:cov
+$ yarn test:cov or npm run test:cov
 
 # e2e tests
 $ yarn test:e2e or npm run test:e2e
