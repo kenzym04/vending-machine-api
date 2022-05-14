@@ -1,9 +1,10 @@
 # Vending Machine API
+
 ## Description
 
 Design an API for a vending machine, allowing users with a “seller” role to add, update or remove products, while users with a “buyer” role can deposit coins into the machine and make purchases. Your vending machine should only accept 5, 10, 20, 50 and 100 cent coins.
 
-## Installation
+## Set up
 
 ```bash
 $ git clone https://github.com/kenzym04/vending-machine-api.git
@@ -12,7 +13,7 @@ $ cp .env.example #Update the the file with your DB credentials
 $ yarn or npm install
 ```
 
-## Running the app
+## Run
 
 ```bash
 # development
@@ -39,6 +40,3 @@ Input this url  ```http://localhost:1003/docs``` on your server's browser to vie
 * **Language**: [Typescript](https://www.typescriptlang.org/)
 * **Web Framework**: [NestJS](https://docs.nestjs.com)
 * **Database**: [Mysql](https://www.mysql.com/)
-
-## What Next (ToDo)
-- [x] Increase the test coverage.
